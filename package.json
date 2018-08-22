@@ -1,0 +1,26 @@
+{
+  "name": "graphql-intro",
+  "version": "1.0.0",
+  "description": "Repo to learn & experiment w/ GraphQL.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbMosman/graphql-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbMosman/graphql-intro/issues"
+  },
+  "homepage": "https://github.com/mbMosman/graphql-intro#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2"
+  }
+}
