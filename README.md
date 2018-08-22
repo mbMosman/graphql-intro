@@ -1,6 +1,6 @@
 # Intro to GraphQL
 
-Repo to learn & experiment w/ GraphQL.
+Repo for me to learn & experiment w/ GraphQL. While creating this, I was working through the getting started info here: https://graphql.org/graphql-js/
 
 ## Run Me
 
